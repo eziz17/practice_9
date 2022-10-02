@@ -1,0 +1,60 @@
+.h1 {
+  font-size: 48px;
+}
+.h2 {
+  font-size: 32px;
+}
+.h3 {
+  font-size: 28px;
+}
+.h4 {
+  font-size: 24px;
+}
+.h5 {
+  font-size: 20px;
+}
+.h6 {
+  font-size: 16px;
+}
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-weight: 600;
+}
+
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+.text-center {
+  text-align: center;
+}
+.fw-lighter {
+  font-weight: lighter;
+}
+.fw-normal {
+  font-weight: normal;
+}
+.fw-bold {
+  font-weight: bold;
+}
+.fw-bolder {
+  font-weight: bolder;
+}
+.line-h-4{
+  line-height: 1.4;
+}
+.line-h-5{
+  line-height: 1.5;
+}
+.line-h-6{
+  line-height: 1.6;
+}
+.line-h-7{
+  line-height: 1.7;
+}
